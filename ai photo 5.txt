@@ -1,0 +1,7 @@
+{
+  "prompt": "Create stunning HD wallpapers featuring ladybird beetles in vibrant red and black colors, showcasing intricate spots and textures, on a clean or natural background",
+  "style": "macro photography",
+  "resolution": "4K",
+  "colors": ["red", "black", "green", "yellow"],
+  "elements": ["ladybird beetles", "leaves", "flowers", "spots"]
+}
